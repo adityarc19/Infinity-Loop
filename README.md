@@ -1,4 +1,4 @@
-# Infinity-Loop
+# Hackathon project
 Problem statement : You are new to a city and you are planning to visit multiple tourist locations. 
 What is the most efficient way to visit all the locations?
 
