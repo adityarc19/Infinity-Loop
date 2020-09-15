@@ -7,4 +7,4 @@ Solution:- This is a shortest path algorithm problem. Here, the concept of prior
 
 ![a_star][logo]
 
-[logo]: https://d3i71xaburhd42.cloudfront.net/8760b011b7f77c049ad51fa82706662c7a311532/3-Figure2-1.png
+[logo]: https://github.com/adityarc19/Think42labs-Hackathon-project/blob/master/a_star.png?raw=true
